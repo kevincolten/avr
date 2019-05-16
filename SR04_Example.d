@@ -1,4 +1,4 @@
-SR04_Example.elf: SR04_Example.cpp \
+SR04_Example.o: SR04_Example.c \
  /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h \
  /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h \
  /Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h \
